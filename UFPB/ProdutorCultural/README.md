@@ -16,27 +16,27 @@
    ### Análise das alternativas:
 
    - **Alternativa a)**: **Conjunto de práticas políticas e econômicas de uma sociedade.**
-  - Embora práticas políticas e econômicas sejam parte da organização social de um povo, elas não representam, por si só, o conceito completo de cultura. A cultura envolve também aspectos subjetivos, como crenças e valores, que vão além das dinâmicas políticas e econômicas.
+     - Embora práticas políticas e econômicas sejam parte da organização social de um povo, elas não representam, por si só, o conceito completo de cultura. A cultura envolve também aspectos subjetivos, como crenças e valores, que vão além das dinâmicas políticas e econômicas.
 
-- **Alternativa b)**: **Conjunto de expressões artísticas de uma sociedade.**
-  - As expressões artísticas (como música, dança, pintura, teatro, etc.) são de fato uma parte importante da cultura, mas esta não se limita a isso. A cultura em seu sentido amplo inclui também costumes, normas sociais, crenças religiosas, entre outros elementos, que vão muito além das manifestações artísticas.
-
-- **Alternativa c)**: **Conjunto de crenças, valores, normas, conhecimentos e formas de vida de uma sociedade.**
-  - Esta é a alternativa correta. O conceito de cultura em um sentido amplo engloba não só as expressões artísticas, mas também **crenças**, **valores**, **normas sociais**, **conhecimentos** (incluindo saberes tradicionais e científicos) e **formas de vida** (como os modos de organização familiar, as práticas religiosas, o comportamento cotidiano, entre outros). Isso inclui tudo o que define a identidade e a dinâmica social de um grupo.
-
-- **Alternativa d)**: **Apenas as manifestações artísticas e literárias de uma sociedade.**
-  - Esta alternativa restringe ainda mais o conceito de cultura, limitando-o às manifestações artísticas e literárias. Embora essas sejam partes da cultura, elas não englobam a totalidade das práticas e formas de vida de uma sociedade.
-
-- **Alternativa e)**: **Conjunto de hábitos alimentares e de vestuário de um povo.**
-  - Hábitos alimentares e de vestuário são importantes aspectos culturais, mas são apenas **parte** do conjunto mais amplo de elementos culturais que incluem aspectos como valores, crenças e normas, além de práticas artísticas, sociais e espirituais.
-
-### Explicação detalhada:
-
-A **cultura**, em seu sentido mais amplo, refere-se ao **conjunto de todos os elementos que caracterizam e organizam a vida de uma sociedade**. Isso inclui **valores**, como o que um grupo considera certo ou errado; **normas sociais**, que regulam o comportamento das pessoas dentro da sociedade; **crenças**, que podem ser religiosas, filosóficas ou ideológicas; **conhecimentos**, que envolvem a transmissão de saberes (científicos, tradicionais, empíricos, etc.); e **formas de vida**, que englobam práticas cotidianas e as maneiras de viver de um povo, incluindo organização social, estruturas familiares, modos de alimentação, vestuário, hábitos, entre outros.
-
-Portanto, a cultura em um sentido amplo abrange muito mais do que apenas arte ou alimentação. Ela envolve **todo o conjunto de práticas, significados e símbolos que são compartilhados e transmitidos entre os membros de uma sociedade**, moldando suas interações e formando a base de sua identidade coletiva.
-
-A alternativa correta (c) é a que mais fielmente reflete essa compreensão ampla de cultura, pois ela engloba uma variedade de aspectos, incluindo crenças, valores, normas, conhecimentos e formas de vida.
+   - **Alternativa b)**: **Conjunto de expressões artísticas de uma sociedade.**
+     - As expressões artísticas (como música, dança, pintura, teatro, etc.) são de fato uma parte importante da cultura, mas esta não se limita a isso. A cultura em seu sentido amplo inclui também costumes, normas sociais, crenças religiosas, entre outros elementos, que vão muito além das manifestações artísticas.
+   
+   - **Alternativa c)**: **Conjunto de crenças, valores, normas, conhecimentos e formas de vida de uma sociedade.**
+     - Esta é a alternativa correta. O conceito de cultura em um sentido amplo engloba não só as expressões artísticas, mas também **crenças**, **valores**, **normas sociais**, **conhecimentos** (incluindo saberes tradicionais e científicos) e **formas de vida** (como os modos de organização familiar, as práticas religiosas, o comportamento cotidiano, entre outros). Isso inclui tudo o que define a identidade e a dinâmica social de um grupo.
+   
+   - **Alternativa d)**: **Apenas as manifestações artísticas e literárias de uma sociedade.**
+     - Esta alternativa restringe ainda mais o conceito de cultura, limitando-o às manifestações artísticas e literárias. Embora essas sejam partes da cultura, elas não englobam a totalidade das práticas e formas de vida de uma sociedade.
+   
+   - **Alternativa e)**: **Conjunto de hábitos alimentares e de vestuário de um povo.**
+     - Hábitos alimentares e de vestuário são importantes aspectos culturais, mas são apenas **parte** do conjunto mais amplo de elementos culturais que incluem aspectos como valores, crenças e normas, além de práticas artísticas, sociais e espirituais.
+   
+   ### Explicação detalhada:
+   
+   A **cultura**, em seu sentido mais amplo, refere-se ao **conjunto de todos os elementos que caracterizam e organizam a vida de uma sociedade**. Isso inclui **valores**, como o que um grupo considera certo ou errado; **normas sociais**, que regulam o comportamento das pessoas dentro da sociedade; **crenças**, que podem ser religiosas, filosóficas ou ideológicas; **conhecimentos**, que envolvem a transmissão de saberes (científicos, tradicionais, empíricos, etc.); e **formas de vida**, que englobam práticas cotidianas e as maneiras de viver de um povo, incluindo organização social, estruturas familiares, modos de alimentação, vestuário, hábitos, entre outros.
+   
+   Portanto, a cultura em um sentido amplo abrange muito mais do que apenas arte ou alimentação. Ela envolve **todo o conjunto de práticas, significados e símbolos que são compartilhados e transmitidos entre os membros de uma sociedade**, moldando suas interações e formando a base de sua identidade coletiva.
+   
+   A alternativa correta (c) é a que mais fielmente reflete essa compreensão ampla de cultura, pois ela engloba uma variedade de aspectos, incluindo crenças, valores, normas, conhecimentos e formas de vida.
 
    </details>
 
