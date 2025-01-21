@@ -11,9 +11,36 @@
    <details>
    <summary>Resposta</summary>
    c) Conjunto de crenças, valores, normas, conhecimentos e formas de vida de uma sociedade
+A questão questiona o que se entende por **cultura em um sentido amplo**, o que implica uma definição que não se restringe apenas a manifestações visíveis ou artísticas, mas que abarca diversos aspectos da vida social, comportamental, simbólica e material de um grupo humano.
+
+### Análise das alternativas:
+
+- **Alternativa a)**: **Conjunto de práticas políticas e econômicas de uma sociedade.**
+  - Embora práticas políticas e econômicas sejam parte da organização social de um povo, elas não representam, por si só, o conceito completo de cultura. A cultura envolve também aspectos subjetivos, como crenças e valores, que vão além das dinâmicas políticas e econômicas.
+
+- **Alternativa b)**: **Conjunto de expressões artísticas de uma sociedade.**
+  - As expressões artísticas (como música, dança, pintura, teatro, etc.) são de fato uma parte importante da cultura, mas esta não se limita a isso. A cultura em seu sentido amplo inclui também costumes, normas sociais, crenças religiosas, entre outros elementos, que vão muito além das manifestações artísticas.
+
+- **Alternativa c)**: **Conjunto de crenças, valores, normas, conhecimentos e formas de vida de uma sociedade.**
+  - Esta é a alternativa correta. O conceito de cultura em um sentido amplo engloba não só as expressões artísticas, mas também **crenças**, **valores**, **normas sociais**, **conhecimentos** (incluindo saberes tradicionais e científicos) e **formas de vida** (como os modos de organização familiar, as práticas religiosas, o comportamento cotidiano, entre outros). Isso inclui tudo o que define a identidade e a dinâmica social de um grupo.
+
+- **Alternativa d)**: **Apenas as manifestações artísticas e literárias de uma sociedade.**
+  - Esta alternativa restringe ainda mais o conceito de cultura, limitando-o às manifestações artísticas e literárias. Embora essas sejam partes da cultura, elas não englobam a totalidade das práticas e formas de vida de uma sociedade.
+
+- **Alternativa e)**: **Conjunto de hábitos alimentares e de vestuário de um povo.**
+  - Hábitos alimentares e de vestuário são importantes aspectos culturais, mas são apenas **parte** do conjunto mais amplo de elementos culturais que incluem aspectos como valores, crenças e normas, além de práticas artísticas, sociais e espirituais.
+
+### Explicação detalhada:
+
+A **cultura**, em seu sentido mais amplo, refere-se ao **conjunto de todos os elementos que caracterizam e organizam a vida de uma sociedade**. Isso inclui **valores**, como o que um grupo considera certo ou errado; **normas sociais**, que regulam o comportamento das pessoas dentro da sociedade; **crenças**, que podem ser religiosas, filosóficas ou ideológicas; **conhecimentos**, que envolvem a transmissão de saberes (científicos, tradicionais, empíricos, etc.); e **formas de vida**, que englobam práticas cotidianas e as maneiras de viver de um povo, incluindo organização social, estruturas familiares, modos de alimentação, vestuário, hábitos, entre outros.
+
+Portanto, a cultura em um sentido amplo abrange muito mais do que apenas arte ou alimentação. Ela envolve **todo o conjunto de práticas, significados e símbolos que são compartilhados e transmitidos entre os membros de uma sociedade**, moldando suas interações e formando a base de sua identidade coletiva.
+
+A alternativa correta (c) é a que mais fielmente reflete essa compreensão ampla de cultura, pois ela engloba uma variedade de aspectos, incluindo crenças, valores, normas, conhecimentos e formas de vida.
+
    </details>
 
-2. **Qual das opções abaixo descreve a cultura imaterial?**
+1. **Qual das opções abaixo descreve a cultura imaterial?**
    - a) Obras de arte expostas em museus  
    - b) Monumentos históricos e edifícios arquitetônicos  
    - c) Tradições, linguagens, danças e festas populares  
@@ -24,7 +51,7 @@
    c) Tradições, linguagens, danças e festas populares
    </details>
 
-3. **O que caracteriza a diversidade cultural em uma sociedade?**
+2. **O que caracteriza a diversidade cultural em uma sociedade?**
    - a) A predominância de uma única cultura  
    - b) A presença de várias culturas diferentes convivendo no mesmo espaço  
    - c) A homogeneização das crenças e práticas sociais  
@@ -35,7 +62,7 @@
    b) A presença de várias culturas diferentes convivendo no mesmo espaço
    </details>
 
-4. **Qual das seguintes expressões é um exemplo de cultura popular?**
+3. **Qual das seguintes expressões é um exemplo de cultura popular?**
    - a) Pinturas rupestres  
    - b) Teatro de vanguarda  
    - c) Música de grandes compositores clássicos  
@@ -46,7 +73,7 @@
    d) Samba de roda
    </details>
 
-5. **O que é a globalização cultural?**
+4. **O que é a globalização cultural?**
    - a) A imposição de uma cultura única em todos os países  
    - b) O processo de homogeneização cultural que reduz a diversidade cultural  
    - c) A integração e intercâmbio de diferentes culturas em uma escala mundial  
@@ -57,7 +84,7 @@
    c) A integração e intercâmbio de diferentes culturas em uma escala mundial
    </details>
 
-6. **O que significa etnocentrismo?**
+5. **O que significa etnocentrismo?**
    - a) A valorização das culturas de outros povos  
    - b) A crença de que uma cultura é superior a outras  
    - c) A celebração das diversidades culturais  
@@ -68,7 +95,7 @@
    b) A crença de que uma cultura é superior a outras
    </details>
 
-7. **O que é cultura de massa?**
+6. **O que é cultura de massa?**
    - a) Cultura praticada apenas pelas classes altas  
    - b) Cultura produzida e consumida em larga escala, muitas vezes pela mídia de massa  
    - c) Cultura voltada exclusivamente para grupos intelectuais  
