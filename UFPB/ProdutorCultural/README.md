@@ -11,11 +11,11 @@
    <details>
    <summary>Resposta</summary>
    c) Conjunto de crenças, valores, normas, conhecimentos e formas de vida de uma sociedade
-A questão questiona o que se entende por **cultura em um sentido amplo**, o que implica uma definição que não se restringe apenas a manifestações visíveis ou artísticas, mas que abarca diversos aspectos da vida social, comportamental, simbólica e material de um grupo humano.
+   A questão questiona o que se entende por **cultura em um sentido amplo**, o que implica uma definição que não se restringe apenas a manifestações visíveis ou artísticas, mas que abarca diversos aspectos da vida social, comportamental, simbólica e material de um grupo humano.
 
-### Análise das alternativas:
+   ### Análise das alternativas:
 
-- **Alternativa a)**: **Conjunto de práticas políticas e econômicas de uma sociedade.**
+   - **Alternativa a)**: **Conjunto de práticas políticas e econômicas de uma sociedade.**
   - Embora práticas políticas e econômicas sejam parte da organização social de um povo, elas não representam, por si só, o conceito completo de cultura. A cultura envolve também aspectos subjetivos, como crenças e valores, que vão além das dinâmicas políticas e econômicas.
 
 - **Alternativa b)**: **Conjunto de expressões artísticas de uma sociedade.**
